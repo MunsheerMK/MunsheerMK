@@ -289,7 +289,7 @@ Project Management Module (ASP.NET MVC, N-tier, Repository Pattern) replacing ma
 
 ```
 commit 2026  ──  📜 Google Cloud — Introduction to Image Generation  (Feb 2026)
-                 🤟 XenoverseGlobal  — AI Sign Language Translation Platform  (POC)
+                 🤟 Xeno   — AI Sign Language Translation Platform  (POC)
 
 commit 2025  ──  💼 AASOFT Netherlands (Remote)  [Apr 2025 → Present]
                      🏛️ VLOS 3/4/5  — Dutch Parliament live reporting  (3 releases)
