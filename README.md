@@ -257,14 +257,6 @@ Project Management Module (ASP.NET MVC, N-tier, Repository Pattern) replacing ma
 
 </div>
 
----
-
-<!-- PACMAN CONTRIBUTION GRAPH — appears after animations workflow runs -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/MunsheerMK/MunsheerMK/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MunsheerMK/MunsheerMK/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MunsheerMK/MunsheerMK/output/pacman-contribution-graph-dark.svg" width="100%">
-</picture>
 
 ---
 
